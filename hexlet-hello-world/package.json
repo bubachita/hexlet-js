@@ -1,0 +1,12 @@
+{
+  "name": "hexlet-hello-world",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Node.js package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bubachita <bubachita@gmail.com> (https://github.com/bubachita)",
+  "license": "ISC"
+}
